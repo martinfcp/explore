@@ -125,3 +125,8 @@ body {
     background-color: #265273;
     color: #fff;
   }
+
+  .card {
+    width: 80vw;
+    background-color: #22425b;
+    margin: 1em;
