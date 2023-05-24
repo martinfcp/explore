@@ -125,7 +125,7 @@ body {
   .divider {
     height: 4px;
     width: 60px;
-    background-color: aqua;
+    background-color: rgb(195, 204, 236);
     margin-top: 5px;
     margin-bottom: 2em;
   }
@@ -137,7 +137,7 @@ body {
   .portfolio,
   .contact-section {
     width: 100vw;
-    background-color: #191c32;
+    background-color: #5463d2;
     color: #fff;
   }
   
