@@ -51,13 +51,13 @@ body {
   }
   
   .menu .active {
-    color: aqua;
+    color: rgb(0, 81, 255);
    
   }
   
   
   .menu li a:hover {
-    color: #66E7C8;
+    color: #666fe7;
   }
   
   
