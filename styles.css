@@ -71,6 +71,7 @@ body {
     align-items: center;
     gap: 2em;
     background-color: #d1e8f9;
+    justify-content: space-between;
   }
   
   h1 {
