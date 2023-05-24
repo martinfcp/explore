@@ -132,3 +132,6 @@ body {
     background-color: #284f6d;
     color: #fff;
     margin: 0 auto;
+    justify-content: center;
+    padding: 2em;
+  }
