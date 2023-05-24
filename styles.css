@@ -46,18 +46,18 @@ body {
   }
   
   .menu li:hover a{
-    background-color: aqua;
+    background-color: rgb(187, 210, 253);
     color: #191c32;
   }
   
   .menu .active {
-    color: rgb(0, 81, 255);
+    color: rgb(255, 255, 255);
    
   }
   
   
   .menu li a:hover {
-    color: #666fe7;
+    color: #d7d7d7;
   }
   
   
