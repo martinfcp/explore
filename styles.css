@@ -70,7 +70,7 @@ body {
     grid-template-columns: repeat(2,1fr);
     align-items: center;
     gap: 2em;
-    background-color: #afdbfd;
+    background-color: #d1e8f9;
   }
   
   h1 {
