@@ -13,7 +13,8 @@ body {
     font-family: 'Roboto Slab', sans-serif;
   }
   
-  .wrapper {
+  .wrapper,
+  .portfolio {
     width: 100vw;
     height: 30vh;
     background-color: #477da7;
