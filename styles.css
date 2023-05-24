@@ -97,13 +97,7 @@ body {
   .download-cv:hover {
     background-color: azure;
     box-shadow: none;
-  }
   
-  .main img {
-    border:  7px solid aqua;
-    width: 350px;
-    height: 520px;
-    z-index: 1;
   }
   
   .about {
