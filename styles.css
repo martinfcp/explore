@@ -131,7 +131,7 @@ body {
     height: 700vh;
     background-color: #284f6d;
     color: #fff;
-    margin: 0 auto;
     justify-content: center;
     padding: 2em;
+    align-items: center;
   }
