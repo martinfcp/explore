@@ -127,8 +127,8 @@ body {
   }
 
   .card {
-    width: 80vw;
-    height: 700vh;
+    width: 100vw;
+    height: 600vh;
     background-color: #284f6d;
     color: #fff;
     justify-content: center;
