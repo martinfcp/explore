@@ -106,10 +106,6 @@ body {
   flex-direction: column;
   justify-content: center;
   padding: 2em;
-  width: 100vw;
-    height: 30vh;
-    background-color: #477da7;
-    color: #fff;
   }
 
   .portfolio-headings h2{
