@@ -129,11 +129,6 @@ body {
   .card {
     width: 80vw;
     height: 80vh;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 2em;
-    background-color: #1f4664;
+    background-color: #284f6d;
     color: #fff;
-  }
+    margin: 2em;
