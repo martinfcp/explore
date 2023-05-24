@@ -100,7 +100,7 @@ body {
   
   }
 
-  .portfolio-headings {
+  .portfolio-headings .container {
     width: 100vw;
   display: flex;
   flex-direction: column;
