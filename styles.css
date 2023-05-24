@@ -13,8 +13,7 @@ body {
     font-family: 'Roboto Slab', sans-serif;
   }
   
-  .wrapper,
-    .portfolio {
+  .wrapper {
     width: 100vw;
     height: 30vh;
     background-color: #477da7;
@@ -100,4 +99,10 @@ body {
     box-shadow: none;
   
   }
-  
+
+  .portfolio-headings {
+    width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  }
