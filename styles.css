@@ -239,12 +239,6 @@ body {
   }
 
   @media screen and (max-width: 800px){
-    .cardimg {
-      display: none;
-    }
-    }
-
-  @media screen and (max-width: 800px){
     .tableauPlaceholder {
       width: 60vw;
       height: 250vh;
