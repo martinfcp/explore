@@ -225,7 +225,7 @@ body {
 @media screen and (max-width: 800px){
   .card {
     width: 120vw;
-    height: 550vh;
+    height: 800vh;
     margin: 0 auto;
     display: grid;
     gap: 2em;
