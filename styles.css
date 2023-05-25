@@ -189,9 +189,11 @@ body {
     .menu {
       display: flex;
       width: 50%;
-      justify-content: space-between;
+      justify-content: ;
     }
+  }
   
+  @media screen and (max-width: 800px){
     .main {
     margin: 0 auto;
     width: 80vw;
@@ -203,7 +205,9 @@ body {
     background-color: #d1e8f9;
     justify-content: space-between;
   }
+}
 
+@media screen and (max-width: 800px){
   .portfolio .container {
     width: 80vw;
     height: 600vh;
@@ -215,7 +219,9 @@ body {
     background-color: #265273;
     color: #fff;
   }
+}
 
+@media screen and (max-width: 800px){
   .card {
     width: 120vw;
     height: 550vh;
