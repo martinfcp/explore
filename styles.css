@@ -189,7 +189,7 @@ body {
     .menu {
       display: flex;
       width: 50%;
-      justify-content: ;
+      justify-content: space-around;
     }
   }
   
@@ -224,7 +224,7 @@ body {
 @media screen and (max-width: 800px){
   .card {
     width: 120vw;
-    height: 550vh;
+    height: 400vh;
     background-color: #265273;
     color: #fff;
     justify-content: space-between;
