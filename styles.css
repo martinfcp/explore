@@ -240,8 +240,8 @@ body {
 
   @media screen and (max-width: 800px){
     .cardimg {
-      width: 2vw;
-      height: 10vh;
+      width: 20vw;
+      height: 100vh;
     }
     }
 
