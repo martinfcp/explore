@@ -185,7 +185,7 @@ body {
   }
   
 
-  @media screen and (max-width: 1200px){
+  @media screen and (max-width: 1000px){
   .main {
     margin: 0 auto;
     width: 80vw;
