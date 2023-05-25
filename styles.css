@@ -211,7 +211,7 @@ body {
   .portfolio .container {
     margin: 0 auto;
     width: 80vw;
-    height: 500vh;
+    height: 800vh;
     display: grid;
     align-items: center;
     gap: 2em;
