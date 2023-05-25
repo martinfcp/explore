@@ -218,6 +218,7 @@ body {
     justify-content: space-between;
     background-color: #265273;
     color: #fff;
+    font-size: 1em;
   }
 }
 
@@ -233,6 +234,7 @@ body {
     justify-content: space-between;
     padding:4em;
     align-items: center;
+    font-size: 1em;
   }
   }
 
