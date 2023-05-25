@@ -200,7 +200,7 @@ body {
 
   .portfolio .container {
     width: 80vw;
-    height: 140vh;
+    height: 200vh;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -211,7 +211,7 @@ body {
   }
 
   .card {
-    width: 70vw;
+    width: 120vw;
     height: 550vh;
     background-color: #265273;
     color: #fff;
