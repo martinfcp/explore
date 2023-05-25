@@ -242,6 +242,7 @@ body {
     .cardimg {
       width: 20vw;
       height: 20vh;
+      display: grid;
     }
     }
 
