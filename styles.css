@@ -210,7 +210,7 @@ body {
 @media screen and (max-width: 800px){
   .portfolio .container {
     margin: 0 auto;
-    width: 80vw;
+    width: 120vw;
     height: 800vh;
     display: grid;
     align-items: center;
@@ -232,7 +232,6 @@ body {
     background-color: #265273;
     color: #fff;
     justify-content: space-between;
-    padding:2em;
     align-items: center;
     font-size: 1em;
   }
