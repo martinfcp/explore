@@ -240,10 +240,8 @@ body {
 
   @media screen and (max-width: 800px){
     .cardimg {
-      width: 10vw;
+      width: 2vw;
       height: 60vh;
-      
-      
     }
     }
 
@@ -251,9 +249,7 @@ body {
     .tableauPlaceholder {
       width: 60vw;
       height: 250vh;
-      margin: 0 auto;
-      display: grid;
-      gap: 2em;
+     
       
     }
     }
