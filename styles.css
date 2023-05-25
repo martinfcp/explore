@@ -212,13 +212,7 @@ body {
     margin: 0 auto;
     width: 80vw;
     height: 800vh;
-    display: grid;
-    align-items: center;
-    gap: 2em;
-    justify-content: space-between;
-    background-color: #265273;
-    color: #fff;
-    font-size: 1em;
+    
   }
 }
 
@@ -226,13 +220,6 @@ body {
   .card {
     width: 120vw;
     height: 800vh;
-    margin: 0 auto;
-    display: grid;
-    gap: 2em;
-    background-color: #265273;
-    color: #fff;
-    justify-content: space-between;
-    
   }
   }
 
