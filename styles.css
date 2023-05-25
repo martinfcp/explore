@@ -184,7 +184,7 @@ body {
     color: #d7d7d7;
   }
   
-  @media screen and (max-width: 720px){
+  @media screen and (max-width: 1200px){
   .main {
     margin: 0 auto;
     width: 80vw;
