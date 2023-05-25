@@ -189,7 +189,7 @@ body {
     .menu {
       display: flex;
       width: 50%;
-      justify-content: space-around;
+      justify-content: space-between;
   
     .main {
     margin: 0 auto;
