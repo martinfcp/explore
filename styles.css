@@ -231,9 +231,8 @@ body {
     gap: 2em;
     background-color: #265273;
     color: #fff;
-    padding:4em;
-    align-items: center;
-    font-size: 1em;
+    justify-content: space-between;
+    
   }
   }
 
