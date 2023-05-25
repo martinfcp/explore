@@ -225,6 +225,9 @@ body {
   .card {
     width: 120vw;
     height: 550vh;
+    margin: 0 auto;
+    display: grid;
+    gap: 2em;
     background-color: #265273;
     color: #fff;
     justify-content: space-between;
